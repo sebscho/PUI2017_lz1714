@@ -1,4 +1,4 @@
-#This is a markdown file to describe what I did to set up my environment as derected by the HW1_2_instructions.
+# This is a markdown file to describe what I did to set up my environment as derected by the HW1_2_instructions.
 
 creat a directory named PUI2017 on my computer
 ```
