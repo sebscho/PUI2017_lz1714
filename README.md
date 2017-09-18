@@ -12,4 +12,4 @@ My anwser is the [README.md](https://github.com/lingyielia/PUI2017_lz1714/blob/m
 
 My anwser is [HW1_reproducible_distributions.ipynb](https://github.com/lingyielia/PUI2017_lz1714/blob/master/HW1_lz1714/HW1_reproducible_distributions.ipynb) in the repo [PUI2017_lz1714/HW1_lz1714](https://github.com/lingyielia/PUI2017_lz1714/tree/master/HW1_lz1714)
 
-**When I stuck by bugs and errors, I searched solutions on website like "Stack Overflow" and discussed with Yukun Wan(yw3447).**
+**When I stuck by bugs and errors, I searched for solutions on website like "Stack Overflow" and discussed with Yukun Wan(yw3447). She taught me how to install all the packages on my computer.**
