@@ -34,7 +34,7 @@ for i in range(len(activity)):
     try:
         stop_name = vehi_info['OnwardCalls']['OnwardCall'][0]['StopPointName']
         stop_status = vehi_info['OnwardCalls']['OnwardCall'][0]['Extensions']['Distances']['PresentableDistance']
-    except vehi_info['OnwardCalls'] == "":
+    except KeyError:
         stop_name = "N/A"
         stop_status = "N/A"
     bus_records.write(str(Latitude) + "," + str(Longitude) + "," + stop_name + "," + stop_status + "\n")
