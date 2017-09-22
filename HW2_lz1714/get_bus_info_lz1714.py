@@ -31,10 +31,10 @@ for i in range(len(activity)):
     vehi_location = vehi_info['VehicleLocation']
     Latitude = vehi_location['Latitude']
     Longitude = vehi_location['Longitude']
-    stop_name = vehi_info['MonitoredCall']['StopPointName']
-    stop_status = vehi_info['MonitoredCall']['Extensions']['Distances']['PresentableDistance']
-    print (Latitude)
-    print (Longitude)
-    print (stop_name)
-    print (stop_status)
+    try:
+        stop_name = vehi_info['OnwardCalls']['OnwardCall'][0]['StopPointName']
+        stop_status = vehi_info['OnwardCalls']['OnwardCall'][0]['Extensions']['Distances']['PresentableDistance']
+    except vehi_info['OnwardCalls'] == "":
+        stop_name = "N/A"
+        stop_status = "N/A"
     bus_records.write(str(Latitude) + "," + str(Longitude) + "," + stop_name + "," + stop_status + "\n")
