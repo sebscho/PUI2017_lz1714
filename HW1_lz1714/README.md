@@ -6,7 +6,7 @@ I forked and messed up [gittest_yw3447](https://github.com/lingyielia/gittest_yw
 
 ## Assignment 2: Set up your environment
 
-My anwser is the [README.md]https://github.com/lingyielia/PUI2017_lz1714/blob/master/HW1_lz1714/SetUpMyEnvironment.md file in the repo [PUI2017_lz1714/HW1_lz1714](https://github.com/lingyielia/PUI2017_lz1714/tree/master/HW1_lz1714).
+My anwser is the [README.md](https://github.com/lingyielia/PUI2017_lz1714/blob/master/HW1_lz1714/SetUpMyEnvironment.md) file in the repo [PUI2017_lz1714/HW1_lz1714](https://github.com/lingyielia/PUI2017_lz1714/tree/master/HW1_lz1714).
 
 ## Assignment 3: Reproducible research
 
