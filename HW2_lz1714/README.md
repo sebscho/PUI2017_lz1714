@@ -19,11 +19,11 @@ I did this homework alone.
 1. Log into compute.
 2. Read CSV file from CUSP data facility. (Using the environment variable DFDATA)
 3. Drop redundant columns with two numerical-values columns remaining.
-4. plot a scatter diagram.
+4. Plot a scatter diagram.
 
 ## Extra Credit Assignment : work with dates in Pandas
 
 1. Log into compute.
 2. Read CSV file from CUSP data facility. (Using the environment variable DFDATA)
 3. Drop redundant columns, remaining one numerical-values column and one data/time.
-4. plot these two variables.
+4. Plot these two variables.
