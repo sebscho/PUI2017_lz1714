@@ -1,36 +1,15 @@
-# This is a markdown file to describe what I did to set up my environment as directed by the HW1_2_instructions.
+## Assignment 1: Finish Lab 1
 
-creat a directory named PUI2017 on my computer:
-```
-mkdir PUI2017
-```
+My repo is [gittest_lz1714](https://github.com/lingyielia/gittest_lz1714).
 
-creat an environmental variable and the alias for going there:
-```
-PUI2017="/Users/Lingyi/devel/PUI2017"
-export PUI2017
+I forked and messed up [gittest_yw3447](https://github.com/lingyielia/gittest_yw3447)'s file. And I accepted my classmates' merge requests.
 
-alias pui2017="cd $PUI2017"
-```
-You can see the alias and env. variable as follow
-![Alt text](screenshot/setting_up.png)
+## Assignment 2: Set up your environment
 
-Rerun to modify my setting:
-```
-source ~/.bash_profile
-```
+My anwser is the [README.md](https://github.com/lingyielia/PUI2017_lz1714/blob/master/HW1_lz1714/README.md) file in the repo [PUI2017_lz1714/HW1_lz1714](https://github.com/lingyielia/PUI2017_lz1714/tree/master/HW1_lz1714).
 
-Type the following commands to check the output:
-```
-pwd
-pui2017
-pwd
-```
+## Assignment 3: Reproducible research
 
-This is the output in my computer
-![Alt test](screenshot/the_output.png)
+My anwser is [HW1_reproducible_distributions.ipynb](https://github.com/lingyielia/PUI2017_lz1714/blob/master/HW1_lz1714/HW1_reproducible_distributions.ipynb) in the repo [PUI2017_lz1714/HW1_lz1714](https://github.com/lingyielia/PUI2017_lz1714/tree/master/HW1_lz1714)
 
-
-
-
-
+**When I stuck by bugs and errors, I searched for solutions on website like "Stack Overflow" and discussed with Yukun Wan(yw3447). She taught me how to install all the packages on my computer.**
