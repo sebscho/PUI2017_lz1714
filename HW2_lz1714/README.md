@@ -1,9 +1,12 @@
 # HW2
 
-The TAs help me figure out 1)why my date column was not sorted properly. 2)the meaning of "being rendered".
+The TAs kindly help me figure out
+    1) why my date column was not sorted properly.
+    2) the meaning of "being rendered".
 I did everything else of this homework alone.
 
-## Outline of what I did 
+
+## Outline of what I did
 ### Assignment 1:  tracking each vehicle for a line
 
 1. Read JSON-format data from the MTA website through the SIRI API.
