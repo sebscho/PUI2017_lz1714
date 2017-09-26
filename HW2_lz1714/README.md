@@ -2,8 +2,8 @@
 
 The TAs kindly help me figure out
 
-_ why my date column was not sorted properly.
-_ the meaning of "being rendered".
+- why my date column was not sorted properly.
+- the meaning of "being rendered".
 
 I did everything else of this homework alone.
 
