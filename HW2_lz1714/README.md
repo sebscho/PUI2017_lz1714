@@ -1,8 +1,10 @@
 # HW2
 
 The TAs kindly help me figure out
-    1) why my date column was not sorted properly.
-    2) the meaning of "being rendered".
+
+_ why my date column was not sorted properly.
+_ the meaning of "being rendered".
+
 I did everything else of this homework alone.
 
 
