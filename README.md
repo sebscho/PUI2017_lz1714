@@ -4,6 +4,6 @@ __director:__ Dr. Federica Bianco
 
 Thourgh the practice, I hope my code will become more __reusable__.
 
-__readable__
-__structured__
+__readable__ /
+__structured__ /
 __concise__
