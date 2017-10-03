@@ -2,7 +2,7 @@
 
 __director:__ Dr. Federica Bianco
 
-Thourgh the practice, I hope my code will become more __reusable__.
+Thourgh the practice, I hope my code will become __reusable__.
 
 __readable__ /
 __structured__ /
