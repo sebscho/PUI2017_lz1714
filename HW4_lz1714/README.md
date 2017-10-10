@@ -19,3 +19,4 @@ For Assignment 4, Yukun Wan recommanded me to use geoJson file to read.
 ### Assignment 3: Reproduce the analysis of the Hard to Employ program in NY.
 
 ### Assignment 4: Tests of correlation using the scipy package with citibike data.
+I used the shapely.geometry package
