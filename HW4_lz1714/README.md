@@ -1,5 +1,7 @@
 # HW3
-
+For Assignment 1 & 2, I did individually.
+For Assignment 3, I asked Yukun Wan about the meaning of the question.
+For Assignment 4, Yukun Wan recommanded me to use geoJson file to read.
 
 ## Outline of what I did
 ### Assignment 1: Review your classmate's Citibike project proposal.
