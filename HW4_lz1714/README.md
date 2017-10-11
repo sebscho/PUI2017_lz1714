@@ -5,6 +5,7 @@ For Assignment 4, Yukun Wan recommanded me to use geoJson file to read.
 
 ## Outline of what I did
 ### Assignment 1: Review your classmate's Citibike project proposal.
+I reviewed the work of Praveen Ashok Kumar (pak348, praveenashokkumar)
 
 ### Assignment 2: Literature choices of statistical tests.
 
@@ -17,6 +18,7 @@ For Assignment 4, Yukun Wan recommanded me to use geoJson file to read.
 
 
 ### Assignment 3: Reproduce the analysis of the Hard to Employ program in NY.
+Did the Z-test and the Chi-squre test.
 
 ### Assignment 4: Tests of correlation using the scipy package with citibike data.
-I used the shapely.geometry package
+Used the shapely.geometry package to determine whether a point is in certain polygon.
