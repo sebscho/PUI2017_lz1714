@@ -21,4 +21,4 @@ I reviewed the work of Praveen Ashok Kumar (pak348, praveenashokkumar)
 Did the Z-test and the Chi-squre test.
 
 ### Assignment 4: Tests of correlation using the scipy package with citibike data.
-Used the **shapely.geometry package** to determine whether a point is in certain polygon.
+Used the [shapely.geometry package](https://toblerity.org/shapely/shapely.geometry.html) to determine whether a point is in certain polygon.
