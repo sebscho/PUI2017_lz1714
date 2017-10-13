@@ -11,4 +11,4 @@
 
 
 
-### Assignment 3: Investigate linear relationships between fire arm possession, homicides by fire arms, and mass shootings for different countries, considering also the country GDP
+### Assignment 3: Investigate linear relationships between fire arm possession, homicides by fire arms, and mass shootings for different countries, considering also the country GDP.
