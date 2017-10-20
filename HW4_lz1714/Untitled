@@ -1,0 +1,15 @@
+Figure 2: The cumulative distribution of citibike trip-durations.
+The difference mainly occurs during 500 seconds to 2000 seconds.
+
+Null hypothesis: The trip durations of bikers that ride during the day vs night have no difference.
+The KS test returned two values:
+1. statistic=0.043782288537372094, is the KS statistic.
+2. pvalue=0.0, the possibility of null hypothesis happens.
+As pvalue < alpha, we can reject the Null hypothesis.
+The trip durations of bikers that ride during the day vs night are different.
+
+NdfDay = dfDay.sample(frac=0.005, replace=True)
+NdfNight = dfNight.sample(frac=0.005, replace=True)
+
+ks = stats.ks_2samp(NdfDay.tripduration, NdfNight.tripduration)
+print (ks)
