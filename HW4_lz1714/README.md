@@ -16,6 +16,7 @@ I reviewed the work of Praveen Ashok Kumar (pak348, praveenashokkumar)
  Logistic Regression	 | 14, age, HR, BMI, WC, SBP, DBP, FPG, PBG, IR, TG, DM and its duration, and PH and its duration | continuous, categorical | 1, CA dysfunction| categorical | N/A | N/A | 	 Estimate the potential risk factors of cardiovascular autonomic (CA) dysfunction | All factors are not significantly associated with CA dysfunction | 0.05 | [Comparison of Prediction Model for Cardiovascular Autonomic Dysfunction Using Artificial Neural Network and Logistic Regression Analysis](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0070571) |
 |||||||||
 
+# FBB ANCOVA: I cant understand the question as you wrote it. otherwise ok
 
 ### Assignment 3: Reproduce the analysis of the Hard to Employ program in NY.
 Did the Z-test and the Chi-squre test.
