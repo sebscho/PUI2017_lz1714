@@ -2,8 +2,3 @@
 
 __director:__ Dr. Federica Bianco
 
-Thourgh this practice, I hope my code will become __reusable__.
-
-__readable__ /
-__structured__ /
-__concise__
